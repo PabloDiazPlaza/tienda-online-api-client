@@ -1,4 +1,4 @@
-const API_URL = 'https://whispering-brushlands-70493.herokuapp.com/'; // 'http://localhost:3000';
+const API_URL = 'https://whispering-brushlands-70493.herokuapp.com/';
 
 const createProductList = async() => {
     const searchField = document.getElementById('search_field').value;
