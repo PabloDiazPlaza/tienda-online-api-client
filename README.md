@@ -1,3 +1,3 @@
 Tienda Online
 
-Heroku :
+Heroku : [Link a la app](https://whispering-brushlands-70493.herokuapp.com/)
