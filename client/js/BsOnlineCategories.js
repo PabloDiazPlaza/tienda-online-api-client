@@ -1,4 +1,4 @@
-const API_URLC = 'https://whispering-brushlands-70493.herokuapp.com/';
+const API_URLC = 'https://whispering-brushlands-70493.herokuapp.com';
 const createCategoryList = async() => {
     fetch(`${API_URLC}/category`)
         .then((response) => {
